@@ -1,2 +1,2 @@
-# fundamental-research-mdl
-Reproduction for Balanced Resonate-and-Fire Neurons paper
+# Fundamental Research in Machine and Deep Learning: Assignment 2 (Control Dataset)
+
