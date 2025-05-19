@@ -12,7 +12,7 @@ N_STEPS = int(DURATION / DT)
 FREQS = [2, 5, 10]  # Hz
 DELTA_F = [1, 2, 3]
 N_SAMPLES_PER_FREQ = 10
-JITTER = 0.02
+JITTER = 0.02 # Eta
 
 np.random.seed(42) # For reproducibility
 
